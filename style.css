@@ -1,0 +1,53 @@
+.MainDiv{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position:relative;
+    flex-direction: column;
+    
+}
+.heading{
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    background-color: powderblue;
+    height:auto;
+    width: 100%;
+    border-style: groove;
+
+}
+.calcArea{
+    width: 453px;
+    height:395px;
+    background-color: powderblue;
+    display: flex;
+    justify-content: flex-start;
+    margin:10px;
+}
+.inputDiplay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Ansdisplay{
+    height: 70px;
+    width: 425px;
+    padding: 5px;
+    align-items: center;
+    margin:5px;
+    border-style: groove;
+    border-color: darkgoldenrod;
+    position: relative;
+    font-size: larger;
+    background-color: white;
+}
+.buttenDef{
+    height:50px;
+    width:100px;
+    margin:5px;
+}
+.buttenEqual{
+    height:50px;
+    width:215px;
+    margin:5px;
+}
